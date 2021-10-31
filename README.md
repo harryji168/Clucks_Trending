@@ -1,6 +1,4 @@
-# Quiz1
 
-Old Sayings    " 分， 分， 学生的命根！"  google translate .   "Points, points, the lifeblood of students!"  
 
 # Discuss about lost mark
 
