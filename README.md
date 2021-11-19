@@ -1,22 +1,17 @@
 
 
-# Discuss about lost mark
-
-### lost mark 1 
-
 Challenge: Trending Tags
 Value: 3%
 Total: 0/3
 Add a trending tags section that only appears in sizes larger than mobile as shown below.
 
 Feature	Mark	Notes
-- If the user enters a hashtag (such as #Things), then store them in another table alongside a counter with the number of time the hashtag was used.	❌	
-- Whenever a cluck is created that contains hashtags that already exists, increment each of their counter fields.	❌	
-- Use that data to make the "Trending Clucks" section functional.	❌	
-- Sort them by their counter field in a descending order.	❌	
+- If the user enters a hashtag (such as #Things), then store them in another table alongside a counter with the number of time the hashtag was used.	
+- Whenever a cluck is created that contains hashtags that already exists, increment each of their counter fields.	
+- Use that data to make the "Trending Clucks" section functional.	
+- Sort them by their counter field in a descending order.	
 
 
-##### I do not agreee 
 
 I made the trending tag#  show up in the desktop layout  and hid the  trending tag#  in the mobile layout
 
@@ -34,20 +29,8 @@ I made the trending tag#  show up in the desktop layout  and hid the  trending t
   
   
   
-  ### lost mark 2 
-  
-  Morgan shouldn't be installed as dev dependency. Partial mark assigned.
-  
-  ##### I do not agree
-  
-  Morgan should just use in development
   
   
-  
-  ### A successfully submitted cluck redirects the user to the index page.	❌	Redirected to the show page  
-  
-  
-  ##### not agree
   
   
    I redirected a full control page, included back to index list and also included the "Edit" and "Delete" feature.   This was not required by the quiz instruction but it needed to be included because the database->clucks table had updated_at fields. If there wasn't this feature, then this field will be of no use.
